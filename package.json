@@ -1,0 +1,19 @@
+{
+  "name": "madnessgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "dotenv": "^16.3.1"
+  }
+}
